@@ -1,0 +1,12 @@
+.shop-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    max-width: 1140px;
+    margin: auto;
+}
+.product-container {
+    border-right: 1px solid #DDD;
+}
+.cart-container{
+    padding-left: 30px;
+}

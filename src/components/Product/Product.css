@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding: 15px;
+}
+.product-text{
+    margin-left: 30px;
+}
+.product-text h4{
+    color: blue;
+    font-weight: 400;
+}
+.bnt-regular{
+    background-color: goldenrod;
+    width: 120px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
